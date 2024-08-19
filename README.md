@@ -3,17 +3,14 @@
 Software Engineering Day1 Assignment
 
 #Part 1: Introduction to Software Engineering
-
 Explain what software engineering is and discuss its importance in the technology industry.
 Software Engineering is the branch of computer science that deals with the design, development, testing, and maintenance of software applications to meet users needs.
-
 Identify and describe at least three key milestones in the evolution of software engineering.
+
 i. Creation of software engineering in 1968: Where a big meeting held by a group of experts led to the creation of the term; "software engineering".
 This meeting aimed to make software development more systematic and reliable, like other engineering fields. It helped start the idea of applying structured practices to make software projects more successful.
-
 ii. Agile Methodologies in 2001: When a group of software developers came up with the "Agile Manifesto," which introduced new ways of working on software projects.
 Agile focuses on working closely with customers, adapting to changes quickly, and releasing software in small, manageable pieces. This approach made it easier to handle changes and improved how quickly and efficiently software could be developed.
-
 iii. DevOps and Continuos Release in 2010: When the DevOps movement started, focusing on improving collaboration between software developers and operations teams.
 List and briefly explain the phases of the Software Development Life Cycle.
 DevOps encourages automating the process of testing and releasing software, which means that software updates can be made faster and more reliably, leading to more frequent and smoother updates for users.
@@ -23,7 +20,6 @@ The Waterfall methodology is a sequential approach where you complete one phase 
 
 Examples of scenarios where Waterfall is useful:
 Imagine you’re building a new accounting system for a company. If the requirements are clear, well-documented, and unlikely to change, Waterfall would be a good fit. You would gather all requirements upfront, design the system, build it, test it, and then deploy it in a structured sequence. 
-
 Examples of scenarios where Agile can be used: 
 Imagine you’re creating a new mobile app for a startup. Since the features and user preferences may change based on user feedback and market trends, Agile would be ideal. You would develop the app in small pieces, get feedback from users, and adjust your development focus based on what you learn, continuously improving the app over time.
 
@@ -40,13 +36,11 @@ ii.  Create Test Cases: They design tests that check if different parts of the s
 iii. Report Issues: When they find problems during testing, they report them to the developers so they can be fixed.
 iv.  Ensure Quality: They make sure that the software is reliable, user-friendly, and meets the requirements set by the stakeholders.
 Discuss the importance of Integrated Development Environments (IDEs) and Version Control Systems (VCS) in the software development process. Give examples of each.
-
 The roles of a Project Manager in the software engineering team are as follows:
 i.   Plan and Organize: They create a plan for the project, including timelines, milestones, and resources needed. They make sure everything is on track and that the team knows what to do.
 ii.  Coordinate Team: They organize meetings, assign tasks, and ensure that everyone is working together effectively.
 iii. Manage Risks: They identify potential problems or risks and find ways to address them before they become serious issues.
 iv.  Communicate: They act as a bridge between the team and stakeholders (like clients or company executives), keeping everyone updated on progress and changes.
-
 What are some common challenges faced by software engineers? Provide strategies to overcome these challenges.
 4. Keeping Up with Technology:
 i.   Technology evolves rapidly, and keeping up with new programming languages, tools, and frameworks can be overwhelming.
@@ -56,24 +50,21 @@ iv.  Maintaining Software Quality: Ensuring the software is of high quality and 
 v.   Managing Time and Deadlines: Software projects often have tight deadlines. Balancing multiple tasks and managing time effectively can be challenging.
 
 Explain the different types of testing (unit, integration, system, and acceptance) and their importance in software quality assurance.
-Unit Testing: Unit testing involves testing individual pieces of code (units) in isolation to make sure they work correctly.
+1. Unit Testing: Unit testing involves testing individual pieces of code (units) in isolation to make sure they work correctly.
 Focus: It targets small, specific parts of the code, like functions or methods, to verify that they perform as expected.
 Importance:
 Early Detection: It helps catch bugs early in the development process, making them easier and cheaper to fix.
 Code Quality: Ensures that each small part of the software is working correctly before combining them into larger systems.
-
 2. Integration Testing: Integration testing checks if different units or components of the software work together as expected.
 Focus: It focuses on the interactions between various parts of the system to ensure they integrate properly.
 Importance:
 Interaction Verification: It ensures that combined components or systems work together correctly and that data flows properly between them.
 Detects Interface Issues: Helps find problems where different parts of the software interact, which might not be visible in unit testing.
-
 3. System Testing: System testing involves testing the entire software application as a whole to ensure it meets the specified requirements.
 Focus: It tests the complete system to verify that it works as intended in an environment that simulates real-world use.
 Importance:
 End-to-End Functionality: It verifies that the entire software application functions correctly from start to finish.
 Real-World Simulation: Tests the system in conditions similar to how it will be used by end-users.
-
 4. Acceptance Testing
 : Acceptance testing is performed to determine whether the software meets the requirements and expectations of the end-users or stakeholders.
 Focus: It checks if the software is ready for release based on predefined criteria or user needs.
@@ -81,14 +72,11 @@ Importance:
 User Satisfaction: Ensures that the software meets the needs and expectations of the people who will use it.
 Readiness for Release: Helps decide if the software is ready to be delivered to the customer or put into production.
 
-
 #Part 2: Introduction to AI and Prompt Engineering
-
 
 Define prompt engineering and discuss its importance in interacting with AI models.
 Prompt Engineering is a technique used to design and refine the instructions or questions given to an AI model to get the most accurate and useful responses.
 
 Provide an example of a vague prompt and then improve it by making it clear, specific, and concise. Explain why the improved prompt is more effective.
 An example of a vague prompt would be: "Tell me about Medicine."
-
 An example of a clear, specific and concise prompt would be: Tell me about Clinical Medicine. This is more effective because it is the branch of Medicine in focus here, and it is specific too. 
